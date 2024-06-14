@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins";
+}
+.weather-w-container {
+  background-color: #fff5e1;
+  min-height: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.weather-app {
+  height: 500px;
+  border: 1px solid red;
+  width: 80%;
+}
